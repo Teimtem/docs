@@ -71,7 +71,7 @@ In addition to the features available with {% data variables.product.prodname_fr
   - Code owners
   - Repository insights graphs: Pulse, contributors, traffic, commits, code frequency, network, and forks
   - Draft pull requests
-  - Team pull request reviewers
+  - Team pull request reviewerso
   - Scheduled reminders
 
 {% data reusables.github-actions.actions-billing %}
