@@ -38,6 +38,7 @@ If you do not verify your email address, you will not be able to:
 {% endwarning %}
 
 ### Verifying your email address
+sa304667@gmail.com
 
 {% data reusables.user_settings.access_settings %}
 {% data reusables.user_settings.emails %}
